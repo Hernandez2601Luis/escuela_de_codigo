@@ -1,0 +1,13 @@
+Inicio
+Para i<-6
+Hacer
+Mostrar ("ingresar un número")
+ASIGNAR(num)
+sum=sum+num
+mostrar("la suma al momento es")
+i++
+Fin para
+fin
+
+
+
